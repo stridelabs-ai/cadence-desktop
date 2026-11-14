@@ -67,9 +67,8 @@ A package installed this way does not update with `apt upgrade`.
 
 **macOS:** right-click the owl in the menu bar and choose **Check for
 Updates…**. The app does not check for updates by itself; nothing is
-downloaded until you ask. Updates come
-from this repository's feed, and the app verifies each update's signature
-before installing it.
+downloaded until you ask. Updates come from this repository's feed, and the
+app verifies each update's signature before installing it.
 
 **Linux:** updates arrive with your other packages:
 
@@ -105,8 +104,9 @@ something looks wrong:
 - Choose **Refresh**, or **Sign out** and then sign in again.
 - Make sure you are on the latest release (see Updates).
 - Logs are in `~/Library/Logs/Cadence/` on macOS and
-  `~/.local/state/cadence-desktop/` on Linux. `cadence-desktop --version` prints
-  the installed version.
+  `~/.local/state/cadence-desktop/` on Linux.
+- The installed version is in Finder's **Get Info** for Cadence on macOS, and
+  `cadence-desktop --version` prints it on Linux.
 
 ## Uninstall
 
