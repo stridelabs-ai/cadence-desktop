@@ -9,7 +9,8 @@ notarized macOS `.dmg` and a Linux `.deb`) and the Sparkle update feed for the
 macOS app (`macos/appcast.xml`). The source code is private, and its release
 workflow publishes each release here.
 
-No release has been published yet.
+The latest release is on the [Releases](https://github.com/stridelabs-ai/cadence-desktop/releases/latest)
+page; [v0.1.0](https://github.com/stridelabs-ai/cadence-desktop/releases/tag/v0.1.0) was the first.
 
 ## Install
 
