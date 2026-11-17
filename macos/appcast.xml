@@ -5,5 +5,12 @@
     <link>https://github.com/stridelabs-ai/cadence-desktop</link>
     <description>Sparkle update feed for Cadence Desktop on macOS.</description>
     <language>en</language>
+    <item>
+      <title>Cadence 0.1.0</title>
+      <pubDate>Tue, 17 Nov 2026 06:42:34 +0000</pubDate>
+      <sparkle:version>0.1.0</sparkle:version>
+      <sparkle:shortVersionString>0.1.0</sparkle:shortVersionString>
+      <enclosure url="https://github.com/stridelabs-ai/cadence-desktop/releases/download/v0.1.0/Cadence-0.1.0.dmg" type="application/octet-stream" sparkle:edSignature="LhCOGTTHbNJAUMIagqtnEgz08eCScW2Hc6wsY+9x9oSVCgKVxZaTdACVxsjqAX+2ooY2d8r2E3L1rgOmt+rNBQ==" length="10628320" />
+    </item>
   </channel>
 </rss>
